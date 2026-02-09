@@ -1,0 +1,5 @@
+{
+  "name": "PrintMaster Pro",
+  "description": "A comprehensive print shop management system featuring a customer ordering portal and a robust admin dashboard for stock, orders, and financial tracking.",
+  "requestFramePermissions": []
+}
